@@ -1,0 +1,14 @@
+{
+    "name": "root/datasionning",
+    "require": {
+      "php" : "^5.6 || ^7.0",
+      "gitonomy/gitlib": "~1.0"
+    },
+    "require-dev": {
+      "phpro/grumphp": "^0.11.3"
+    },
+    "suggest": {
+      "phpro/grumphp" :"because"
+    },
+    "bin": ["bin/datasionning"]
+}
